@@ -1,7 +1,8 @@
 {
-  "name": "carbonfootprint-backend",
-  "version": "1.0.0",
-  "description": "Backend for the Carbon Footprint Route Calculator",
+  "name": "@cliommit/backend",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Cliommit Backend Services",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LMulvey/carbonfootprint-backend.git"
+    "url": "git+https://github.com/Cliommit/backend.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lee Mulvey",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LMulvey/carbonfootprint-backend/issues"
+    "url": "https://github.com/Cliommit/backend/issues"
   },
-  "homepage": "https://github.com/LMulvey/carbonfootprint-backend#readme",
+  "homepage": "https://github.com/Cliommit/backend#readme",
   "dependencies": {
     "@google/maps": "^1.0.2",
     "@mapbox/polyline": "1.1.0",

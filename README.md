@@ -1,5 +1,5 @@
-# carbonfootprint-backend
-API for **Code The Change YYC Hackathon project: Carbon Footprint Tracker**
+# Cliommit Backend
+> This project was birthed at the CodeTheChange YYC Hackathon in November 2019. Original repo: https://www.github.com/LMulvey/carbonfootprint-backend
 
 ## Endpoints
 
